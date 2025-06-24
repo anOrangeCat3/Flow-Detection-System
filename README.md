@@ -1,5 +1,15 @@
 # A Multi-Scene Flow Intelligence Detection System Based on Raspberry Pi
 
+**_2022.7~2022.8_**
+
+Team Project of 3 members
+
+<div align=center> <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/9e0a970d-5965-4909-8ed8-4957eac7f6c0" width="40%" height="40%"/> <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/472ea16d-5e3b-4d1a-b92e-a9349f10acc9" width="43%" height="43%"/> </div>
+
+**Discription of project**: This project focuses on solving multi-class object detection challenges, improving system architecture, reducing data processing loads, and speeding up data computation and transmission. The intelligent detection system utilizes a Raspberry Pi 4B equipped with a camera, employs the YOLOv5 framework for model training, and builds an OpenCV-based image object detection framework for various scenarios, including nucleic acid testing. The identified data is uploaded to a cloud server, further processed via a PC interface, and presented with visualization on a web page for real-time access by users.
+
+**Individual contribution**: I have completed the deployment of YOLOv5 on a Raspberry Pi, using a simplified lightweight version, achieving approximately 4 frames per second (fps) and enabling real-time detection. It can detect various objects in multiple scenarios. Finally, the system provides a count of objects within the frame.
+
 **video link:**
 
 youtube: https://www.youtube.com/watch?v=WhOx_mLZSFg
@@ -22,7 +32,7 @@ I was responsable for the part of intelligent detection using YOLOv5 and my team
 |_final_pre.pdf_|**Final Project PPT**|
 
 
-The results of objects detection using YOLOv5 were attached as below:
+The results of objects detection using YOLOv5 running on Raspberry Pi were attached as below:
 
 <div align=center>
    <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/82e2e889-efb9-43dc-afb5-36bb37547b04" width="40%" height="40%"/>
@@ -31,11 +41,8 @@ The results of objects detection using YOLOv5 were attached as below:
  
 </div>
 
-The results of running on Raspberry Pi were shown as below:
-<div align=center>
-<img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/0bad526d-241a-4430-be10-803ff6be4b96" width="40%" height="40%"/>
-  <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/fe42f669-d763-41de-957c-08a802649ff2" width="40%" height="40%"/>
-</div>
+
+
 
 
 
