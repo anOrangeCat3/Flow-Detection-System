@@ -10,6 +10,15 @@ Team Project of 3 members
 
 **Individual contribution**: I have completed the deployment of YOLOv5 on a Raspberry Pi, using a simplified lightweight version, achieving approximately 4 frames per second (fps) and enabling real-time detection. It can detect various objects in multiple scenarios. Finally, the system provides a count of objects within the frame.
 
+The results of objects detection using YOLOv5 running on Raspberry Pi were attached as below:
+
+<div align=center>
+   <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/82e2e889-efb9-43dc-afb5-36bb37547b04" width="40%" height="40%"/>
+  <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/c44e9772-a360-4377-b259-c1f1a149c495" width="40%" height="40%"/>
+  <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/a1fdee4f-d108-4c5b-9a0e-b5d759230a1e" width="40%" height="40%"/>
+ 
+</div>
+
 **video link:**
 
 youtube: https://www.youtube.com/watch?v=WhOx_mLZSFg
@@ -32,14 +41,7 @@ I was responsable for the part of intelligent detection using YOLOv5 and my team
 |_final_pre.pdf_|**Final Project PPT**|
 
 
-The results of objects detection using YOLOv5 running on Raspberry Pi were attached as below:
 
-<div align=center>
-   <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/82e2e889-efb9-43dc-afb5-36bb37547b04" width="40%" height="40%"/>
-  <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/c44e9772-a360-4377-b259-c1f1a149c495" width="40%" height="40%"/>
-  <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/a1fdee4f-d108-4c5b-9a0e-b5d759230a1e" width="40%" height="40%"/>
- 
-</div>
 
 
 
