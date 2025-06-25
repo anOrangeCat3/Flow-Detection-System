@@ -1,14 +1,16 @@
 # A Multi-Scene Flow Intelligence Detection System Based on Raspberry Pi
 
-**_2022.7~2022.8_**
+[简体中文](README_CN.md) | English |
 
-Team Project of 3 members
+**_2022.7~2022.8_** 
+
+_Team Project of 3 members_ 
 
 <div align=center> <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/9e0a970d-5965-4909-8ed8-4957eac7f6c0" width="40%" height="40%"/> <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/472ea16d-5e3b-4d1a-b92e-a9349f10acc9" width="43%" height="43%"/> </div>
 
 **Discription of project**: This project focuses on solving multi-class object detection challenges, improving system architecture, reducing data processing loads, and speeding up data computation and transmission. The intelligent detection system utilizes a Raspberry Pi 4B equipped with a camera, employs the YOLOv5 framework for model training, and builds an OpenCV-based image object detection framework for various scenarios, including nucleic acid testing. The identified data is uploaded to a cloud server, further processed via a PC interface, and presented with visualization on a web page for real-time access by users.
 
-**Individual contribution**: I have completed the deployment of YOLOv5 on a Raspberry Pi, using a simplified lightweight version, achieving approximately 4 frames per second (fps) and enabling real-time detection. It can detect various objects in multiple scenarios. Finally, the system provides a count of objects within the frame.
+**Individual contribution**: I have completed the deployment of YOLOv5 on a Raspberry Pi, using a simplified lightweight version(YOLOv5_lite), achieving approximately 4 frames per second (fps) and enabling real-time detection. It can detect various objects in multiple scenarios. Finally, the system provides a count of objects within the frame.
 
 The results of objects detection using YOLOv5 running on Raspberry Pi were attached as below:
 
