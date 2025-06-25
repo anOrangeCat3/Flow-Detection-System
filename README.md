@@ -1,6 +1,6 @@
 # A Multi-Scene Flow Intelligence Detection System Based on Raspberry Pi
 
-[简体中文](README_CN.md) | English |
+English | [简体中文](README_CN.md) | 
 
 **_2022.7~2022.8_** 
 
